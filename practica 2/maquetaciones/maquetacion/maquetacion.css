@@ -1,0 +1,89 @@
+
+body{
+    background-color: white;
+}
+nav{
+    
+    background-color: transparent;
+    width: 1000px;
+    height: 100px;;
+    margin: auto;
+    border: solid;
+    text-align: center;
+    background-color:red;
+    display: flex;
+    flex-direction: row;
+}
+.box{
+    width: 180px;
+    height: 60px;
+    background-color: #fff;
+    margin: 20px;
+
+}
+header{
+    width: 1000px;
+    height: 300px;
+    display: inline-block;
+    background: black;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    border: solid;
+  
+}  
+
+.banner{
+width: 800px;
+height: 90%;
+margin: 20px;
+background: #fff;
+}
+
+.options{
+    height: 90%;
+    width: 200px;
+    margin: 10px;
+    flex-direction: row;
+}
+.options div{
+    height: 31%;
+    width: 180px;
+    margin: 10px;
+    background-color: pink;
+
+}
+main{
+    height: 500px;
+    width: 1000px;
+    display: inline-block;
+    margin: auto;
+    border: solid;
+    display: flex;
+    background-color: pink;
+    text-align: center;
+
+    
+}
+#article{
+    width: 500px;
+    height: 95%;
+    margin: auto;
+    background-color: white;
+}
+main aside{
+    width: 200px;
+    height: 95%;
+    background-color: blueviolet;
+    margin: auto;
+}
+footer{
+    width: 1000px;
+    height: 50px;
+    display: inline-block;
+    background-color: goldenrod;
+    text-align: center;
+    margin: auto;
+    border: solid;
+    display: flex;
+}

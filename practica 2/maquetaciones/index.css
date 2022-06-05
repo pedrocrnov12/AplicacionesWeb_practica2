@@ -1,0 +1,47 @@
+body{
+    margin: auto;
+    padding: auto;
+    background: url(/imagenes/pexels-james-wheeler-417074.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    background-color: white;
+}
+.info{
+    width: 90%;
+    height: auto;
+    background: black;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: xx-large
+    ;
+}
+.info .tittlesection{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px mediumorchid dashed; 
+
+}
+.info .tituloinfo{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+    
+
+}
+.info .infoinfo{
+    color: white;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+    display: inline;
+    
+}
